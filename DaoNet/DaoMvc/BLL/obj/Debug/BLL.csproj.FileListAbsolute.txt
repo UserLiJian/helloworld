@@ -1,0 +1,11 @@
+D:\DaoNet\DaoMvc\BLL\bin\Debug\BLL.dll
+D:\DaoNet\DaoMvc\BLL\bin\Debug\BLL.pdb
+D:\DaoNet\DaoMvc\BLL\bin\Debug\DAL.dll
+D:\DaoNet\DaoMvc\BLL\bin\Debug\Model.dll
+D:\DaoNet\DaoMvc\BLL\bin\Debug\DAL.pdb
+D:\DaoNet\DaoMvc\BLL\bin\Debug\Model.pdb
+D:\DaoNet\DaoMvc\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\DaoNet\DaoMvc\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\DaoNet\DaoMvc\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\DaoNet\DaoMvc\BLL\obj\Debug\BLL.dll
+D:\DaoNet\DaoMvc\BLL\obj\Debug\BLL.pdb

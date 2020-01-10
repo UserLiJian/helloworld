@@ -1,0 +1,9 @@
+D:\DaoNet\DaoMvc\DAL\bin\Debug\DAL.dll
+D:\DaoNet\DaoMvc\DAL\bin\Debug\DAL.pdb
+D:\DaoNet\DaoMvc\DAL\bin\Debug\Model.dll
+D:\DaoNet\DaoMvc\DAL\bin\Debug\Model.pdb
+D:\DaoNet\DaoMvc\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\DaoNet\DaoMvc\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DaoNet\DaoMvc\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\DaoNet\DaoMvc\DAL\obj\Debug\DAL.dll
+D:\DaoNet\DaoMvc\DAL\obj\Debug\DAL.pdb
